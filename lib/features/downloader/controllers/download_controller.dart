@@ -138,7 +138,6 @@ class DownloadController extends GetxController {
           isDownloaded: (path) {
             isDownloading.value = false;
             downloadedFilePath.value = path;
-            print("DEBUG: Downloaded to $path");
           },
         ),
       ),
