@@ -21,14 +21,6 @@ As seen in the app interface, downloading is as easy as 1-2-3:
 2.  **Paste Link:** Open the app and paste the link in the input box.
 3.  **Download:** Click "Download Now" and save it to your gallery.
 
-## 🛠 Tech Stack
-
-* **Framework:** [Flutter](https://flutter.dev/) (Dart)
-* **State Management:** Provider / GetX / Bloc (Choose your preferred one)
-* **Networking:** `dio` or `http` for handling requests.
-* **Downloading:** `flutter_downloader` or `background_downloader` for reliable task management.
-* **Permissions:** `permission_handler` to manage storage access.
-* **UI Components:** Custom styled text fields and gradient buttons.
 
 ## ⚙️ Installation & Setup
 
@@ -36,7 +28,7 @@ Follow these steps to run the project locally:
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/yourusername/universal-video-downloader.git](https://github.com/yourusername/universal-video-downloader.git)
+    git clone [https://github.com/NishadMiah/universal_video-downloader.git](https://github.com/NishadMiah/universal_video-downloader.git)
     cd universal-video-downloader
     ```
 
