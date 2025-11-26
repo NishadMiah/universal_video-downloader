@@ -19,6 +19,7 @@ class MyApp extends StatelessWidget {
     return GetMaterialApp(
       title: 'Universal Video Downloader',
       theme: AppTheme.lightTheme,
+      debugShowCheckedModeBanner: false,
       initialBinding: InitialBinding(),
       initialRoute: Routes.home,
       getPages: AppPages.pages,
