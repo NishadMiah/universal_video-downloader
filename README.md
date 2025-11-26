@@ -1,6 +1,9 @@
 # Universal Video Downloader 📥
 
-![App Screenshot](assets/screenshot.png)
+<p align="center">
+  <img src="assets/screenshot.png" width="100" title="App Screenshot">
+</p>
+
 A clean, fast, and powerful Flutter application to download videos instantly from various social media platforms and websites. Designed with a simple 3-step user experience: **Copy, Paste, Download**.
 
 ## 🚀 Features
